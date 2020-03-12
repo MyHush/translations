@@ -18,7 +18,7 @@ These files are XML. For example, the Russian translation file for SD is here:
 
 https://github.com/MyHush/SilentDragon/blob/master/res/silentdragon_ru.ts
 
-There is currently a 1000 HUSH bounty to add a new language to SD.
+There is currently a 500 HUSH bounty to add a new language to SD.
 
 ## SilentDragonLite (SDL) 
 
@@ -34,10 +34,9 @@ There is currently a 500 HUSH bounty to add a new language to SDL.
 
 Type: Android GUI Wallet that connects to SD or SDL
 
-We need to upgrade our Android app codebase to be able to support multiple languages, then we can accept translations.
-Currently researching/deciding on a Kotlin internationalization library, if you have a favorite let us know in #developers!
+Currently 125 HUSH bounty per language
 
 ## myhush.org website
 
 Type: XML
-In progress. Contact `@gilardh + @privatoshi` on Discord
+In progress. Contact `@gilardh + @dukeleto + @berg` on Discord
