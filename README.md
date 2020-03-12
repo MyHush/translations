@@ -5,6 +5,28 @@ the world.
 
 All usernames and channels mentioned in this document refer to Hush Discord at https://myhush.org/discord
 
+Please join #translations to ask questions about this document or helping.
+
+## Rules
+
+We now have more rules:
+
+ * Translator can be completely anonymous, we don't need your government ID
+ * Translators can work on one single wallet or reserve all three wallets (SD,SDL,SDA)
+ * Reservations are for two weeks and then that item will go back to the available pool of translations.
+ * Translator must be a native speaker (spoken the language since childhood)
+ * Translator must be the person who receives the bounty (no middle-people)
+ * Translator must create and receive the bounty to a shielded address (zaddr)
+ * A "broker" may help find native speakers and work out a fair % of the fee, for the translator to pay them, upon completion. The broker may not take payment.
+ 
+ Additionally, here are some rules about the content of the translations:
+ 
+ * Please submit files in .txt or .xml format, not RTF/PDF/DOCX/etc
+ * Submitting a PR to Github `dev` branch is easiest for devs, but uploading to Discord is also fine
+ * Please put the 2 or 3 letter language code in the name of the file (like ES for Spanish or ZH for Chinese)
+
+ 
+
 ## SilentDragon (SD)
 
 Type: Full Node GUI Wallet
