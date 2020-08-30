@@ -25,7 +25,9 @@ We now have more rules:
  * Submitting a PR to Github `dev` branch is easiest for devs, but uploading to Discord is also fine
  * Please put the 2 or 3 letter language code in the name of the file (like ES for Spanish or ZH for Chinese)
 
- 
+## Background
+
+Learn more about QT Linguist, a GUI program you can use to edit translations files [here](https://doc.qt.io/qt-5/linguist-ts-file-format.html)
 
 ## SilentDragon (SD)
 
